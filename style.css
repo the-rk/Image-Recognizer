@@ -1,0 +1,16 @@
+body{
+    background-color: orange;
+    color: brown;
+}
+.heading{
+    font-size: 50px;
+}
+.trainedobjects{
+    color:blue;
+    font-size: 22px;
+}
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
